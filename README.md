@@ -1,4 +1,9 @@
 # My Enterprise Portal
+
+<p align="center">
+  <img src = "MS.png"></img>
+</p>
+
 A POC of a productivity app to provide single page view of Office365 data like email / meetings / OneDrive Files using Microsoft Graph API.
 
 To help me plan for the day ahead in the morning and quickly glance through the top ten things to focus on like unread emails / upcoming meetings / recent work files, wrote this small single page web app. Also, in every interaction with Service Desk the same set of profile data is needed by them to open a ticket, so added it too for easy copy & paste.
@@ -16,7 +21,11 @@ The app has been developed with PHP as the basic building block.  It has been de
 Initial development and testing was done on a Mac.  The details provided in "Prerequisites", "Register and configure the app", "Configure and run the app" sections of the Readme in the public GitHub repo of [Send Mail app](https://github.com/microsoftgraph/php-connect-rest-sample) are exactly the same for this app.
 
 ## Current deployment
-The app is currently running on an Azure VM available [here](http://bit.ly/2BOtkVq).
+The app is currently running on an Azure VM available [here](http://bit.ly/2BOtkVq).  A sample output is as below:
+
+<p align="center">
+  <img src="sample.png"></img>
+</p>
 
 ## Security considerations
 This app has "Security First" and "Privacy First" principles embedded:
@@ -34,7 +43,10 @@ This app has "Security First" and "Privacy First" principles embedded:
 ## Next Steps
 Microsoft is positioning Graph API endpoint as the "one single cloud based access point to all of Office 365 data". It is indeed very interesting and powerful.  This app is just a POC.  If all the appropriate rights are made available to the app (most of them only an Office365 administrator can grant) a more interesting end state can be achieved as below:
 
-![alt text](https://cdn.graph.office.net/prod/GraphDocuments/en-us/concepts/images/microsoft_graph.png).
+<p align="center">
+  <img src="https://cdn.graph.office.net/prod/GraphDocuments/en-us/concepts/images/microsoft_graph.png"></img>
+</p>
+
 
 ## Remarks
 A post on this app is available on [Workplace](https://dxc.facebook.com/groups/DXCoCTO/permalink/2058290637749499).
