@@ -24,7 +24,7 @@ Initial development and testing was done on a Mac.  The details provided in "Pre
 The app is currently running on an Azure VM available [here](http://bit.ly/2BOtkVq).  A sample output is as below:
 
 <p align="center">
-  <img src="sample.png" width="50%" height="50%"></img>
+  <img src="sample.png" width="75%" height="75%"></img>
 </p>
 
 ## Security considerations
@@ -44,12 +44,8 @@ This app has "Security First" and "Privacy First" principles embedded:
 Microsoft is positioning Graph API endpoint as the "one single cloud based access point to all of Office 365 data". It is indeed very interesting and powerful.  This app is just a POC.  If all the appropriate rights are made available to the app (most of them only an Office365 administrator can grant) a more interesting end state can be achieved as below:
 
 <p align="center">
-  <img src="https://cdn.graph.office.net/prod/GraphDocuments/en-us/concepts/images/microsoft_graph.png"></img>
+  <img src="next_steps.png"></img>
 </p>
-
-
-## Remarks
-A post on this app is available on [Workplace](https://dxc.facebook.com/groups/DXCoCTO/permalink/2058290637749499).
 
 ## Contact
 Please reach out to [Vaidyanathan Sivasubramanian](mailto:svaidyan_signup@hotmail.com).
