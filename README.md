@@ -24,7 +24,7 @@ Initial development and testing was done on a Mac.  The details provided in "Pre
 The app is currently running on an Azure VM available [here](http://bit.ly/2BOtkVq).  A sample output is as below:
 
 <p align="center">
-  <img src="sample.png"></img>
+  <img src="sample.png" width="50%" height="50%"></img>
 </p>
 
 ## Security considerations
