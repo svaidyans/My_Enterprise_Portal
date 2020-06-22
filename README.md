@@ -1,7 +1,7 @@
 # My Enterprise Portal
 
-<p align="center" width="50%" height="50%">
-  <img src = "MS.png"></img>
+<p align="center">
+  <img src="MS.png" width="50%" height="50%"></img>
 </p>
 
 A POC of a productivity app to provide single page view of Office365 data like email / meetings / OneDrive Files using Microsoft Graph API.
