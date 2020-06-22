@@ -1,4 +1,4 @@
-# My Enterprise Portal POC
+# My Enterprise Portal
 A POC of a productivity app to provide single page view of Office365 data like email / meetings / OneDrive Files using Microsoft Graph API.
 
 To help me plan for the day ahead in the morning and quickly glance through the top ten things to focus on like unread emails / upcoming meetings / recent work files, wrote this small single page web app. Also, in every interaction with Service Desk the same set of profile data is needed by them to open a ticket, so added it too for easy copy & paste.
