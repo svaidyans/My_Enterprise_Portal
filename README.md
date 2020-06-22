@@ -1,6 +1,6 @@
 # My Enterprise Portal
 
-<p align="center">
+<p align="center" width="50%" height="50%">
   <img src = "MS.png"></img>
 </p>
 
