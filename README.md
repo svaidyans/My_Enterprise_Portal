@@ -44,7 +44,7 @@ This app has "Security First" and "Privacy First" principles embedded:
 Microsoft is positioning Graph API endpoint as the "one single cloud based access point to all of Office 365 data". It is indeed very interesting and powerful.  This app is just a POC.  If all the appropriate rights are made available to the app (most of them only an Office365 administrator can grant) a more interesting end state can be achieved as below:
 
 <p align="center">
-  <img src="next_steps.png"></img>
+  <img src="next_steps.png" width="50%" height="50%"></img>
 </p>
 
 ## Contact
