@@ -20,13 +20,16 @@ The app has been developed with PHP as the basic building block.  It has been de
 
 Initial development and testing was done on a Mac.  The details provided in "Prerequisites", "Register and configure the app", "Configure and run the app" sections of the Readme in the public GitHub repo of [Send Mail app](https://github.com/microsoftgraph/php-connect-rest-sample) are exactly the same for this app.
 
-## Current deployment<sup>*</sup>
-The app is currently running on an Azure VM available [here](http://bit.ly/2BOtkVq).  A sample output is as below:
+## Deployment<sup>***</sup>
+The app ~~is currently running on an Azure VM available [here](http://bit.ly/2BOtkVq)~~<sup><b>***</b></sup>.  A sample output is as below:
 
 <p align="center">
   <img src="sample.png" width="75%" height="75%"></img>
 </p>
 
+<b>*** The VM has been deprecated due to costs; a serverless solution has been deployed as detailed below.</b>
+
+## Latest deployment
 ## Security considerations
 This app has "Security First" and "Privacy First" principles embedded:
 
