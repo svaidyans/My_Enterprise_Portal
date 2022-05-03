@@ -27,9 +27,11 @@ The app ~~is currently running on an Azure VM available [here](http://bit.ly/2BO
   <img src="sample.png" width="75%" height="75%"></img>
 </p>
 
-<b>*** The VM has been deprecated due to costs; a serverless solution has been deployed as detailed below.</b>
+<b>*** <i>The VM has been deprecated due to costs; a serverless solution has been deployed as detailed below.</i></b>
 
 ## Latest deployment
+A serverless architecture solution with Django, Bootstrap 4 and Python has been deployed to Azure. The featureset remains same.  The Web App is available at https://bit.ly/m365lite.
+
 ## Security considerations
 This app has "Security First" and "Privacy First" principles embedded:
 
